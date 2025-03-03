@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://media.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif">
+
 
 <h3 align="center">
   Welcome to Abd El-Rahman Wahib's profile! 
